@@ -89,8 +89,9 @@ This project provides an example of how to:
 Set up a SQL Server database and connect it to an ASP.Net WEB API.
 Use Entity Framework for database operations.
 Write integration tests using NUnit to ensure that the API interacts correctly with the database.
-### Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss your changes.
+
+## Contact
+For any questions or suggestions, please open an issue in the repository.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
